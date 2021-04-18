@@ -1,2 +1,2 @@
 # Wahlanalyse
-Wahlanalyse des Wahlkreises München-Nord von der Bundestagswahl 2017
+Wahlanalyse Bundestagswahl 2017 von München-Nord aus Sicht der SPD
